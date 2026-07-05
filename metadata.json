@@ -1,0 +1,6 @@
+{
+  "name": "Xe Đẹp Pro",
+  "description": "Hệ thống quản lý khách hàng, gói dịch vụ chăm sóc xe, theo dõi thời hạn, tự động tính toán doanh thu và đồng bộ dữ liệu từ xedep.pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
